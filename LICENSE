@@ -1,0 +1,45 @@
+DataChonk CLI - Proprietary License
+
+Copyright (c) 2026 DataChonk. All rights reserved.
+
+TERMS AND CONDITIONS
+
+1. GRANT OF LICENSE
+   You are granted a non-exclusive, non-transferable license to use the 
+   DataChonk CLI software ("Software") for personal or commercial purposes,
+   subject to the terms of this license.
+
+2. RESTRICTIONS
+   You may NOT:
+   - Modify, adapt, or create derivative works of the Software
+   - Redistribute, sublicense, sell, or transfer the Software
+   - Reverse engineer, decompile, or disassemble the Software
+   - Remove or alter any proprietary notices or labels
+   - Use the Software to create a competing product or service
+
+3. PERMITTED USE
+   You MAY:
+   - Install and use the Software for its intended purpose
+   - Use the Software in connection with DataChonk services
+   - Make copies solely for backup purposes
+
+4. OWNERSHIP
+   The Software and all copies thereof are proprietary to DataChonk and 
+   title thereto remains exclusively with DataChonk. All rights not 
+   specifically granted in this license are reserved by DataChonk.
+
+5. TERMINATION
+   This license is effective until terminated. It will terminate 
+   automatically if you fail to comply with any term of this license.
+   Upon termination, you must destroy all copies of the Software.
+
+6. DISCLAIMER OF WARRANTIES
+   THE SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EXPRESS 
+   OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+
+7. LIMITATION OF LIABILITY
+   IN NO EVENT SHALL DATACHONK BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER 
+   LIABILITY ARISING FROM THE USE OF THE SOFTWARE.
+
+For questions about licensing, contact: legal@datachonk.dev
