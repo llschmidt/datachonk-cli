@@ -1,6 +1,6 @@
 {
   "name": "@datachonk/cli",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "AI-powered dbt expert CLI - analyze, generate, and optimize your dbt projects",
   "main": "dist/index.js",
   "type": "module",
